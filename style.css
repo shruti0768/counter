@@ -1,0 +1,26 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+#decrease{
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+#increase{
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+#reset{
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+#btn{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 50vh;
+}
